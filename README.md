@@ -1,5 +1,7 @@
 Pytorch implementation of the paper "Boosting Visible-Infrared Image Fusion and Target Detection Performance with Sleep-Wake Joint Learning".
 
+### [Paper](https://ieeexplore.ieee.org/abstract/document/10942391?casa_token=7iF-6hlBnVwAAAAA:XQU--9qR5NXj9sKdBqCn4iAuYFs83gmblJlHydqC8PyqV6fYUWHIIF2qyATaytAffhnbQTo)
+
 If you use or refer to our code, please cite our paper. Thank you.
 
 Title: Boosting Visible-Infrared Image Fusion and Target Detection Performance with Sleep-Wake Joint Learning
