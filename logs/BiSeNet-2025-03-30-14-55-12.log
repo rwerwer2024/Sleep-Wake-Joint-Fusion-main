@@ -1,0 +1,2 @@
+INFO train.py(225): step: 10/17490, fusion_lr: 0.00100, loss_in: 0.1218, loss_grad: 0.0885, loss_ssim: 0.3144, loss_fusion: 1.3211, eta: 7:47:57, time: 16.0629
+INFO train.py(225): step: 20/17490, fusion_lr: 0.00100, loss_in: 0.1612, loss_grad: 0.1646, loss_ssim: 0.4473, loss_fusion: 2.2542, eta: 4:20:33, time: 1.8342
