@@ -14,4 +14,5 @@ Status: Preprint submitted to IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREME
 
 This repository includes preliminary code and a detailed guide for running the experiments. Please download the required public dataset as described in the associated paper. 
 
+The code refers to https://github.com/Peterisfar/YOLOV3.git https://github.com/Linfeng-Tang/SeAFusion
 Any questions please contact to  email: 328902017@qq.com  or gao_shaobing@163.com
