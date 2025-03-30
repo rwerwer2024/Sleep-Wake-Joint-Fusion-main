@@ -3,7 +3,9 @@ Pytorch implementation of the paper "Boosting Visible-Infrared Image Fusion and 
 If you use or refer to our code, please cite our paper. Thank you.
 
 Title: Boosting Visible-Infrared Image Fusion and Target Detection Performance with Sleep-Wake Joint Learning
+
 Author: Min-Jie Tan, Shao-Bing Gao, Song-Chen Han
+
 School of Computer Science and Engineering, Southwest Minzu University, Chengdu 610225, China
 College of Computer Science, Sichuan University, Chengdu 610065, China
 
